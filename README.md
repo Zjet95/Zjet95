@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Zachjeter95@icloud.com**
 
-- ⚡ Fun fact **I Grow & Sell Exotic Tomatoes under my brand The Heirloom Wizard.**
+- ⚡ Fun fact **I Grow & Sell Exotic Tomatoes under my brand The Heirloom Wizard.** <img src=https://www.simpleimageresizer.com/_uploads/photos/49edb6c6/web_use2_1_5.png />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
