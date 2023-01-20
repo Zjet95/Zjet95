@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS & Javascript**
 
-- 👨‍💻 All of my Code Fellows Class Reading Notes are available at [Reading Notes](https://github.com/Zjet95](https://github.com/Zjet95/reading-notes102)
+- 👨‍💻 All of my Code Fellows Class Reading Notes are available at [Reading Notes](https://github.com/Zjet95/reading-notes102)
 
 - 📫 How to reach me **Zachjeter95@icloud.com**
 
