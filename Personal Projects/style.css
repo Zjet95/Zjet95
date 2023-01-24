@@ -1,0 +1,31 @@
+img{
+    width: 30%;
+    margin: calc(10%/6);
+}
+
+.logo{
+    width: 13%;
+    border-bottom: 0.8px solid grey;
+    margin-left: calc(10%/6)
+    padding: 20px 0;
+
+
+}
+
+/* X-Axis : Horizontal */
+/* Y-Axis : Vertical */
+/* Z-Axis : Around 
+.rotate ( transform: rotateZ(120deg); } */
+
+/* Keyframe */
+@keyframes spin {
+    from { transform: rotateY('0deg');}
+    to { transform: rotateY('360deg');}
+}
+
+.logo:hover{
+        -webkit-transition: -webkit-transform 2s ease-in-out;
+       transition: transform 2s ease-in-out;
+         -webkit-transform: translate(50%, -50%);
+         transform: rotateY(360deg) ; 
+     }
