@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zjet95" alt="zjet95" /></a> </p>
 
-<div align="center"> 🔭 I’m working on Graduating From Code Fellows Software Engineering Bootcamp. 📍 Seattle,WA
+<div align="center"> 🔭 I’m working on Graduating From Code Fellows Software Engineering Bootcamp. 📍 Seattle, WA
 
  🌱 I’m currently learning **HTML, CSS & Javascript, ReactJS, NodeJS, SQL Server**
 
