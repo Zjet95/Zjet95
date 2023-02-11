@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zachariah (Zach)</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zjet95" alt="zjet95" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zjet95" alt="zjet95" /></a> </p>
 
 - 🔭 I’m currently working on [Graduating From Code Fellows Software Development Bootcamp](https://www.codefellows.org/learn-to-code/)
 
