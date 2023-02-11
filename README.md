@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zjet95" alt="zjet95" /></a> </p>
 
-- 🔭 I’m currently working on [Graduating From Code Fellows Software Development Bootcamp](https://www.codefellows.org/learn-to-code/)
+<center> - 🔭 I’m currently working on [Graduating From Code Fellows Software Development Bootcamp](https://www.codefellows.org/learn-to-code/)</center>
 
 - 🌱 I’m currently learning **HTML, CSS & Javascript**
 
