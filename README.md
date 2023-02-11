@@ -3,9 +3,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zjet95" alt="zjet95" /></a> </p>
 
-<div align="center"> 🔭 I’m working on Graduating From Code Fellows Software Engineering Bootcamp
+<div align="center"> 🔭 I’m working on Graduating From Code Fellows Software Engineering Bootcamp. 📍**Seattle,WA**
 
-  🌱 I’m currently learning **HTML, CSS & Javascript, ReactJS, NodeJS, SQL Server**
+ 🌱 I’m currently learning **HTML, CSS & Javascript, ReactJS, NodeJS, SQL Server**
 
  👨‍💻 All of my Code Fellows Class Reading Notes are available at [Reading Notes](https://github.com/Zjet95/reading-notes102)
 
