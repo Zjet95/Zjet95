@@ -50,8 +50,8 @@ The spread operator is a useful and quick syntax for adding items to arrays, com
 **Give an example of using the spread operator to combine two objects into one.**
 
 ```js:
-const objectOne = {Name: "Jordan"}
-const objectTwo = {Age: "35"}
+const objectOne = {Name: "Zachariah"}
+const objectTwo = {Age: "27"}
 const objectThree = {...objectOne, ...objectTwo}
 ```
 
